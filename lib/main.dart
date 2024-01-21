@@ -4,6 +4,9 @@ import 'package:restapis_bootcamp/example_four.dart';
 import 'package:restapis_bootcamp/example_three.dart';
 import 'package:restapis_bootcamp/example_two.dart';
 import 'package:restapis_bootcamp/home_screen.dart';
+import 'package:restapis_bootcamp/post_api_screen.dart';
+import 'package:restapis_bootcamp/signup.dart';
+import 'package:restapis_bootcamp/upload_image.dart';
 
 void main() {
   runApp(const MyApp());
